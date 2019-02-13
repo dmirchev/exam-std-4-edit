@@ -394,5 +394,20 @@ table a, #comments a{background-color:inherit;}
 	background-color: silver;
 }
 #ul-black {
-	color: black !important;
+	color: black !important;}
+
+#wrapper-bgded-overlay-1 {
+	background-image: url('images/demo/backgrounds/01.png');
+}
+
+#wrapper-bgded-overlay-2 {
+	background-image:url('images/demo/backgrounds/02.png');
+}
+
+#headin-2 {
+	color: orange;
+}
+
+#footer-link {
+	color: silver;
 }
