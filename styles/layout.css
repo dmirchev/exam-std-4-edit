@@ -408,6 +408,18 @@ table a, #comments a{background-color:inherit;}
 	color: orange;
 }
 
+#heading-2-span {
+	color: lightblue;
+}
+
 #footer-link {
 	color: silver;
+}
+
+.p-table-cell {
+	text-align: justify;
+}
+
+#p-display-no {
+	display: none;
 }
