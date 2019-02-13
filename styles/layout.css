@@ -384,3 +384,19 @@ table a, #comments a{background-color:inherit;}
 	.font-x2{font-size:1.4rem;}
 	.font-x3{font-size:1.6rem;}
 }
+
+#wrapper-bgded-overlay-1 {
+	background-image: url('images/demo/backgrounds/01.png');
+}
+
+#wrapper-bgded-overlay-2 {
+	background-image:url('images/demo/backgrounds/02.png');
+}
+
+#headin-2 {
+	color: orange;
+}
+
+#footer-link {
+	color: silver;
+}
