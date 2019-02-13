@@ -384,3 +384,15 @@ table a, #comments a{background-color:inherit;}
 	.font-x2{font-size:1.4rem;}
 	.font-x3{font-size:1.6rem;}
 }
+.wrapper bgded overlay{
+	background-image:url('../images/demo/backgrounds/01.png');
+}
+#div-silver {
+	background-color: silver;
+}
+#ul-silver{
+	background-color: silver;
+}
+#ul-black {
+	color: black !important;
+}
