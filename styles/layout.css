@@ -411,3 +411,9 @@ table a, #comments a{background-color:inherit;}
 #footer-link {
 	color: silver;
 }
+#par1 {
+	text-align: justify;font-family: Comic Sans MS;
+}
+#par2 {
+	text-align: justify;font-family: Comic Sans MS;font-style: italic;font-weight:600;
+}
